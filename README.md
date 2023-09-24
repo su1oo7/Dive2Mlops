@@ -8,7 +8,7 @@
 
 ### 1.Dataset 
 **Lung Segmentation on CT**
-- [PACS is an image dataset for domain generalization. It consists of four domains, namely Photo (1,670 images), Art Painting (2,048 images), Cartoon (2,344 images) and Sketch (3,929 images). Each domain contains seven categories.](https://github.com/rekalantar/LiverSegmentation)
+- For our model, we utilize a publicly available dataset from the IRCAD research center in France, containing 20 annotated 3D CT series. We split this dataset into 15 for training/validation and 5 for testing. You clone it from [the GitHub repository](https://github.com/rekalantar/CT_LiverSegmentation).
 
 ### 2. Model
 **Deeplab v3+ / U-net**
