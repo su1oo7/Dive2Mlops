@@ -17,7 +17,7 @@
 
 ### 3. Milestone
 각 step은 3일의 간격을 나타내고 있음
-(E: plan, O: done)
+(E: Expected, O: Done)
 |task|1|2|3|4|5|6|7|8|9|10|
 |--|--|--|--|--|--|--|--|--|--|--|
 |reference 숙지 |E||||||||||
