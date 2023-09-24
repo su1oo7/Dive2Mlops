@@ -7,12 +7,11 @@
 - milestone의 각 step은 3일이며 총 30일 10월 21일까지 진행되는 project.
 
 ### 1.Dataset 
-**PACS (Photo-Art-Cartoon-Sketch)**
-- PACS is an image dataset for domain generalization. It consists of four domains, namely Photo (1,670 images), Art Painting (2,048 images), Cartoon (2,344 images) and Sketch (3,929 images). Each domain contains seven categories.
+**Lung Segmentation on CT**
+- [PACS is an image dataset for domain generalization. It consists of four domains, namely Photo (1,670 images), Art Painting (2,048 images), Cartoon (2,344 images) and Sketch (3,929 images). Each domain contains seven categories.](https://github.com/rekalantar/LiverSegmentation)
 
 ### 2. Model
-**Caffenet**
-- CaffeNet is a deep learning model architecture, similar to AlexNet but with a simpler structure. It has been widely used for various computer vision tasks, including image classification. CaffeNet typically consists of five convolutional layers followed by three fully connected layers, making it suitable for a range of image-related applications.
+**Deeplab v3+ / U-net**
   
 
 ### 3. Milestone
