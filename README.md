@@ -13,8 +13,9 @@
 ### 2. Model
 **Caffenet**
 - CaffeNet is a deep learning model architecture, similar to AlexNet but with a simpler structure. It has been widely used for various computer vision tasks, including image classification. CaffeNet typically consists of five convolutional layers followed by three fully connected layers, making it suitable for a range of image-related applications.
+  
 - Architecture (reference : [paper](https://www.aimsciences.org/article/doi/10.3934/mfc.2018008))
--![](https://www.researchgate.net/profile/Zhuwei-Qin/publication/325174710/figure/fig1/AS:844228066308096@1578291064136/CaffeNet-architecture.png)
+![architecture](https://www.researchgate.net/profile/Zhuwei-Qin/publication/325174710/figure/fig1/AS:844228066308096@1578291064136/CaffeNet-architecture.png)
 
 
 ### 3. Milestone
