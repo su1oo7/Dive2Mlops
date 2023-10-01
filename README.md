@@ -16,15 +16,16 @@
 
 ### 3. Milestone
 각 step은 3일의 간격을 나타내고 있음
-(E: Expected, O: Done)
+(E: Expected, O: Done, X: Failed)
 |task|1|2|3|4|5|6|7|8|9|10|
 |--|--|--|--|--|--|--|--|--|--|--|
-|reference 숙지 |E||||||||||
-|base 모델 test |E|E|||||||||
-|ExampleGen 구현 |E|E|||||||||
-|SchemaGen 구현 |E|E|||||||||
-|Transform 구현 ||E|E||||||||
-|Trainer 구현 ||E|E|E|E||||||
+|reference 숙지 |X|O|E|E|||||||
+|base 모델 test |X|O|||||||||
+|base 모델 py 구조화 ||||E|||||||
+|ExampleGen 구현 |X|X|E||||||||
+|SchemaGen 구현 |X|X|E||||||||
+|Transform 구현 ||X|E||||||||
+|Trainer 구현 ||X|E|E|E||||||
 |Evaluator 구현 ||||||E|E||||
 |Pusher 구현 |||||||E|E|E||
 |repository 정리 ||||E|||||E|E|
